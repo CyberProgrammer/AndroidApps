@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_large">20sp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <string name="app_name">Bus Schedule</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="back">Back</string>
+    <string name="full_schedule">Bus Schedule</string>
+    <string name="route_stop_name">Stop</string>
+    <string name="stop_name">Stop Name</string>
+    <style name="Theme.BusSchedule" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

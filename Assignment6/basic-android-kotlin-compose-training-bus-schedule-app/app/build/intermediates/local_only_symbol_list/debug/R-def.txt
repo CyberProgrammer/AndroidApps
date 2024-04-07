@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+dimen font_large
+dimen padding_medium
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string arrival_time
+string back
+string full_schedule
+string route_stop_name
+string stop_name
+style Theme.BusSchedule

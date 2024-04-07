@@ -1,0 +1,56 @@
+com.example.busschedule.app-material-icons-core-1.4.3-0 C:\Users\tyler\.gradle\caches\transforms-3\008579ef4762b01c46a06b2d5ebe46ee\transformed\material-icons-core-1.4.3\res
+com.example.busschedule.app-profileinstaller-1.3.0-1 C:\Users\tyler\.gradle\caches\transforms-3\06427e72e1765715fa4311ac3c8ca8f6\transformed\profileinstaller-1.3.0\res
+com.example.busschedule.app-material-ripple-1.4.3-2 C:\Users\tyler\.gradle\caches\transforms-3\0ee09ab7656a3998d3bca503f948387a\transformed\material-ripple-1.4.3\res
+com.example.busschedule.app-navigation-common-ktx-2.5.3-3 C:\Users\tyler\.gradle\caches\transforms-3\0feef82262f655211970951909242031\transformed\navigation-common-ktx-2.5.3\res
+com.example.busschedule.app-core-ktx-1.10.1-4 C:\Users\tyler\.gradle\caches\transforms-3\19f0360e6f78406bc27233c1eebf7cdc\transformed\core-ktx-1.10.1\res
+com.example.busschedule.app-ui-1.4.3-5 C:\Users\tyler\.gradle\caches\transforms-3\1c1e04b00aef9af9fc9aef2245e49b90\transformed\ui-1.4.3\res
+com.example.busschedule.app-material3-1.1.0-6 C:\Users\tyler\.gradle\caches\transforms-3\1d4640dc420552fe25b81f9b84f81b7d\transformed\material3-1.1.0\res
+com.example.busschedule.app-sqlite-2.3.1-7 C:\Users\tyler\.gradle\caches\transforms-3\1dd9edbbbce5628c1ce1a8ff7fcde1c0\transformed\sqlite-2.3.1\res
+com.example.busschedule.app-lifecycle-viewmodel-compose-2.6.1-8 C:\Users\tyler\.gradle\caches\transforms-3\22331169219cd85cb5e97c9cc08f2bda\transformed\lifecycle-viewmodel-compose-2.6.1\res
+com.example.busschedule.app-foundation-1.4.3-9 C:\Users\tyler\.gradle\caches\transforms-3\2264ad8d973be0028faee4fb8d06f41d\transformed\foundation-1.4.3\res
+com.example.busschedule.app-lifecycle-runtime-2.6.1-10 C:\Users\tyler\.gradle\caches\transforms-3\269c2b6f982cf35fc5b322e666b2a9ba\transformed\lifecycle-runtime-2.6.1\res
+com.example.busschedule.app-animation-1.4.3-11 C:\Users\tyler\.gradle\caches\transforms-3\2d022846da21af38574156a17f3f93a3\transformed\animation-1.4.3\res
+com.example.busschedule.app-foundation-layout-1.4.3-12 C:\Users\tyler\.gradle\caches\transforms-3\2e3656a980b3da090f9521f6824fd2ce\transformed\foundation-layout-1.4.3\res
+com.example.busschedule.app-ui-graphics-1.4.3-13 C:\Users\tyler\.gradle\caches\transforms-3\310556d9f50614c5976cb5e9e9d35aab\transformed\ui-graphics-1.4.3\res
+com.example.busschedule.app-lifecycle-process-2.6.1-14 C:\Users\tyler\.gradle\caches\transforms-3\3767b87ff74980a1d2ede060d9db722d\transformed\lifecycle-process-2.6.1\res
+com.example.busschedule.app-lifecycle-livedata-core-2.6.1-15 C:\Users\tyler\.gradle\caches\transforms-3\3ea804862fb2670d474aae15de3dc490\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.busschedule.app-startup-runtime-1.1.1-16 C:\Users\tyler\.gradle\caches\transforms-3\4a89307f6f7b9f4989a5ace8f56cbeb5\transformed\startup-runtime-1.1.1\res
+com.example.busschedule.app-material-1.4.3-17 C:\Users\tyler\.gradle\caches\transforms-3\52e0239f25b6f1dd86f9791e41f8b67e\transformed\material-1.4.3\res
+com.example.busschedule.app-ui-tooling-data-1.4.3-18 C:\Users\tyler\.gradle\caches\transforms-3\5451c5d661763e5c470e6544686777a7\transformed\ui-tooling-data-1.4.3\res
+com.example.busschedule.app-runtime-saveable-1.4.3-19 C:\Users\tyler\.gradle\caches\transforms-3\5ce9ac2a64563e4dc7002f15c1eb7378\transformed\runtime-saveable-1.4.3\res
+com.example.busschedule.app-activity-ktx-1.7.2-20 C:\Users\tyler\.gradle\caches\transforms-3\5f9a8ec406cd65d6950e0defc15aedfc\transformed\activity-ktx-1.7.2\res
+com.example.busschedule.app-runtime-1.4.3-21 C:\Users\tyler\.gradle\caches\transforms-3\60bff0c3cb28727eb0bb618e1d95619d\transformed\runtime-1.4.3\res
+com.example.busschedule.app-sqlite-framework-2.3.1-22 C:\Users\tyler\.gradle\caches\transforms-3\610aafd92419fc9488be8df8d18eb64f\transformed\sqlite-framework-2.3.1\res
+com.example.busschedule.app-lifecycle-runtime-ktx-2.6.1-23 C:\Users\tyler\.gradle\caches\transforms-3\621d18ad2c5423d375ed3e85eeb024ef\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.busschedule.app-ui-unit-1.4.3-24 C:\Users\tyler\.gradle\caches\transforms-3\789bd1506ab168667035ab6956ecdb0c\transformed\ui-unit-1.4.3\res
+com.example.busschedule.app-room-ktx-2.5.2-25 C:\Users\tyler\.gradle\caches\transforms-3\7c4c8cd79a85e579304ff474ef424c7a\transformed\room-ktx-2.5.2\res
+com.example.busschedule.app-ui-tooling-preview-1.4.3-26 C:\Users\tyler\.gradle\caches\transforms-3\8b5b5b66db35ff96df561c6375c8452c\transformed\ui-tooling-preview-1.4.3\res
+com.example.busschedule.app-savedstate-ktx-1.2.1-27 C:\Users\tyler\.gradle\caches\transforms-3\8d245b0af20c4f319b7e89ba9a950b88\transformed\savedstate-ktx-1.2.1\res
+com.example.busschedule.app-navigation-common-2.5.3-28 C:\Users\tyler\.gradle\caches\transforms-3\926ee2d7e1aeb96b3403d96108cf68fa\transformed\navigation-common-2.5.3\res
+com.example.busschedule.app-emoji2-1.3.0-29 C:\Users\tyler\.gradle\caches\transforms-3\927d2cf38bf41765e3559d99b4bfc3c6\transformed\emoji2-1.3.0\res
+com.example.busschedule.app-activity-compose-1.7.2-30 C:\Users\tyler\.gradle\caches\transforms-3\ac0e9dbb173547d5147923fc9624adbd\transformed\activity-compose-1.7.2\res
+com.example.busschedule.app-ui-tooling-1.4.3-31 C:\Users\tyler\.gradle\caches\transforms-3\aeb953c98bf1e484b84f4665278668c5\transformed\ui-tooling-1.4.3\res
+com.example.busschedule.app-ui-text-1.4.3-32 C:\Users\tyler\.gradle\caches\transforms-3\b0d41fa01e29a21eed3364a4d1d5fcc2\transformed\ui-text-1.4.3\res
+com.example.busschedule.app-animation-core-1.4.3-33 C:\Users\tyler\.gradle\caches\transforms-3\b1e21a7297201c01a92293d69c93c99f\transformed\animation-core-1.4.3\res
+com.example.busschedule.app-navigation-compose-2.5.3-34 C:\Users\tyler\.gradle\caches\transforms-3\b855f9807c136a370faa61988e359c72\transformed\navigation-compose-2.5.3\res
+com.example.busschedule.app-core-1.10.1-35 C:\Users\tyler\.gradle\caches\transforms-3\b8885a66c5446f5307cbd475f4e45069\transformed\core-1.10.1\res
+com.example.busschedule.app-annotation-experimental-1.3.0-36 C:\Users\tyler\.gradle\caches\transforms-3\bcc8b242c5d26cc6d0f4453c669e7554\transformed\annotation-experimental-1.3.0\res
+com.example.busschedule.app-ui-test-manifest-1.4.3-37 C:\Users\tyler\.gradle\caches\transforms-3\c1aeb6d78eb8761f6c96ab1fe4df3edb\transformed\ui-test-manifest-1.4.3\res
+com.example.busschedule.app-lifecycle-viewmodel-savedstate-2.6.1-38 C:\Users\tyler\.gradle\caches\transforms-3\c6dc08b5f57426ecdb86a0e66d624b28\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.busschedule.app-lifecycle-viewmodel-ktx-2.6.1-39 C:\Users\tyler\.gradle\caches\transforms-3\ca03c547cbda784d366ec56b33379d50\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.busschedule.app-activity-1.7.2-40 C:\Users\tyler\.gradle\caches\transforms-3\cdd6ac3c9477eee4831c0eae87e6ac64\transformed\activity-1.7.2\res
+com.example.busschedule.app-ui-util-1.4.3-41 C:\Users\tyler\.gradle\caches\transforms-3\d1b319b6bced6ed649b7219cab9a6cd6\transformed\ui-util-1.4.3\res
+com.example.busschedule.app-core-runtime-2.2.0-42 C:\Users\tyler\.gradle\caches\transforms-3\d7a3370db2b2b3996aa34bd4a54ff5ba\transformed\core-runtime-2.2.0\res
+com.example.busschedule.app-savedstate-1.2.1-43 C:\Users\tyler\.gradle\caches\transforms-3\e16c68d6aabc7fd158e53e7dc133d949\transformed\savedstate-1.2.1\res
+com.example.busschedule.app-lifecycle-viewmodel-2.6.1-44 C:\Users\tyler\.gradle\caches\transforms-3\e9b78a0ab18145863b5bd397f5710956\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.busschedule.app-room-runtime-2.5.2-45 C:\Users\tyler\.gradle\caches\transforms-3\e9eb65b04f99afb775cbb5f7324671e7\transformed\room-runtime-2.5.2\res
+com.example.busschedule.app-customview-poolingcontainer-1.0.0-46 C:\Users\tyler\.gradle\caches\transforms-3\f0d8dcc7b021399e86cb24142fa26c56\transformed\customview-poolingcontainer-1.0.0\res
+com.example.busschedule.app-navigation-runtime-ktx-2.5.3-47 C:\Users\tyler\.gradle\caches\transforms-3\f7ea9bb298e927673380d9b162fb1ee5\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.busschedule.app-ui-geometry-1.4.3-48 C:\Users\tyler\.gradle\caches\transforms-3\f8f9bc3f7e24b165438ed1b0cf200017\transformed\ui-geometry-1.4.3\res
+com.example.busschedule.app-navigation-runtime-2.5.3-49 C:\Users\tyler\.gradle\caches\transforms-3\fc8ac9810094e2a594c1cf11e1f039bb\transformed\navigation-runtime-2.5.3\res
+com.example.busschedule.app-resValues-50 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\build\generated\res\resValues\debug
+com.example.busschedule.app-packageDebugResources-51 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.busschedule.app-packageDebugResources-52 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.busschedule.app-merged_res-53 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\build\intermediates\merged_res\debug
+com.example.busschedule.app-debug-54 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\src\debug\res
+com.example.busschedule.app-main-55 M:\Github Repos\AndroidApps\Assignment6\basic-android-kotlin-compose-training-bus-schedule-app\app\src\main\res
